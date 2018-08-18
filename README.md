@@ -17,6 +17,9 @@ Project View Demo
 * [shift + command + l] Next history
 
 see SelectHistory.cs
+
+## Usage
+import SelectHistory.unitypackage
 ## Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
