@@ -26,4 +26,4 @@ import SelectHistory.unitypackage
 
 ## Author
 
-[Syy12345-Unity](https://github.com/Syy12345-Unity)
+[Syy9](https://github.com/Syy9)
